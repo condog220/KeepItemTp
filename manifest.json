@@ -1,0 +1,8 @@
+{
+    "name": "KeepItemTp",
+    "version_number": "1.0.0",
+    "website_url": "https://github.com/condog220/KeepItemTp",
+    "description": "Prevents item loss when teleporting",
+    "dependencies": [
+    ]
+}
